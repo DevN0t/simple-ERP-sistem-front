@@ -1,0 +1,22 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;1,700&display=swap');
+
+
+html {
+  zoom: 1;
+}
+*{
+  margin: 0;
+  padding: 0;
+  zoom: 100%;
+
+}
+
+:root{
+  zoom: 100%;
+  font-size: 62.5%;
+  overflow-y: hidden;
+  background-color: #5c50ff;
+
+}
